@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_xrays"
+        android:title="@string/menu_item_show_xrays"
+        android:icon="@drawable/ic_photo_50" />
+
+    <item
+        android:id="@+id/show_tests"
+        android:title="@string/menu_item_show_tests"
+        android:icon="@drawable/ic_document_50" />
+
+    <item
+        android:id="@+id/take_notes"
+        android:title="@string/menu_item_take_notes"
+        android:icon="@drawable/ic_note_50" />
+
+    <item
+        android:id="@+id/take_a_picture"
+        android:title="@string/menu_item_take_pictures"
+        android:icon="@drawable/ic_camera_50" />
+
+    <item
+        android:id="@+id/get_configured"
+        android:title="@string/menu_item_get_config"
+        android:icon="@drawable/ic_sync_50" />
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Surgery</string>
+    <string name="app_voice_trigger">Surgery</string>
+
+    <string name="menu_item_show_xrays">Show x-rays</string>
+    <string name="menu_item_show_tests">Show tests</string>
+    <string name="menu_item_take_pictures">Take pictures</string>
+    <string name="menu_item_take_notes">Take notes</string>
+    <string name="menu_item_start_streaming">Start streaming</string>
+    <string name="menu_item_get_config">Get configured</string>
+    <string name="menu_item_show_on_display">Show on display</string>
+    <string name="menu_item_next">Next</string>
+    <string name="menu_item_previous">Previous</string>
+    <string name="menu_item_capture">Capture</string>
+    <string name="menu_item_accept">Accept</string>
+    <string name="menu_item_discard">Discard</string>
+    <string name="menu_item_go_back">Go back</string>
+
+    <string name="alert_error">Something went wrong.</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_on_display"
+        android:title="@string/menu_item_show_on_display"
+        android:icon="@drawable/ic_share_50">
+        <menu></menu>
+    </item>
+
+    <item
+        android:id="@+id/next"
+        android:title="@string/menu_item_next"
+        android:icon="@drawable/ic_arrow_right_50" />
+
+    <item
+        android:id="@+id/previous"
+        android:title="@string/menu_item_previous"
+        android:icon="@drawable/ic_arrow_left_50" />
+
+    <item
+        android:id="@+id/go_back"
+        android:title="@string/menu_item_go_back"
+        android:icon="@drawable/ic_reply_50" />
+</menu>
